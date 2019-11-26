@@ -146,25 +146,24 @@ Es wird erwartet, dass die Ergebnisse der Arbeit zeigen wie die Dynamik in diese
 ## Verzeichnisse
 
 ### Literaturverzeichnis
-* ### Jean Burgess und Joshua Green, 2009, YouTube: Online Video and Participatory Culture, Ort: Polity Press;
-* ### Andrea Ordanini, Lucia Miceli, Marta Pizzetti, A. Parasuraman, 2013, Crowdfunding: Transforming Customers Into Investors Through Innovative Service Platforms, Customer and Service Science Lab;
+* Jean Burgess und Joshua Green, 2009, YouTube: Online Video and Participatory Culture, Ort: Polity Press;
+* Andrea Ordanini, Lucia Miceli, Marta Pizzetti, A. Parasuraman, 2013, Crowdfunding: Transforming Customers Into Investors Through Innovative Service Platforms, Customer and Service Science Lab;
 
 ### Quellenverzeichnis
-* ### Farhad Manjoo, 15. März, 2017.  How the Internet Is Saving Culture, Not Killing It.  Ort: The New York Times, Technology Paper;
-
+* Farhad Manjoo, 15. März, 2017.  How the Internet Is Saving Culture, Not Killing It.  Ort: The New York Times, Technology Paper;
 [How the Internet Is Saving Culture, Not Killing It.](https://www.nytimes.com/2017/03/15/technology/how-the-internet-is-saving-culture-not-killing-it.html)
-* ### A Little Bit of Money Goes a Long Way: Crowdfunding on Patreon by YouTube Sailing Channels
 
+* A Little Bit of Money Goes a Long Way: Crowdfunding on Patreon by YouTube Sailing Channels
 [A Little Bit of Money Goes a Long Way: Crowdfunding on Patreon by YouTube Sailing Channels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2919840)
-* ### Impact of Subscription-based Crowdfunding on Creators’ Online Channels: Evidence from YouTube
 
+* Impact of Subscription-based Crowdfunding on Creators’ Online Channels: Evidence from YouTube
 [Impact of Subscription-based Crowdfunding on Creators’ Online Channels: Evidence from YouTube](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1017&context=amcis2019)
-* ### Subscription Based Crowdfunding A look into an alternative monetisation model for music creators in the present era.
 
+* Subscription Based Crowdfunding A look into an alternative monetisation model for music creators in the present era.
 [Subscription Based Crowdfunding A look into an alternative monetisation model for music creators in the present era.](https://uia.brage.unit.no/uia-xmlui/bitstream/handle/11250/1924385/MU-501%20-%20Giraldo.pdf?sequence=1)
-* ### WHAT IS PATREON AND HOW DOES IT WORK?
 
+* WHAT IS PATREON AND HOW DOES IT WORK?
 [WHAT IS PATREON AND HOW DOES IT WORK?](https://mediakix.com/blog/what-is-patreon-how-does-patreon-work/)
-* ### What is Patreon?
 
+* What is Patreon?
 [What is Patreon?](https://support.patreon.com/hc/en-us/articles/204606315-What-is-Patreon-)
