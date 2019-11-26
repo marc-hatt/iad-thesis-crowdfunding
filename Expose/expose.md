@@ -16,7 +16,7 @@ Ulrike Felsing
 Schule für Gestaltung Zürich
 
 ### Vorgelegt von
-Marc Hatt
+Marc Hatt</ br>
 Pestalozzistrasse 24
 5242 Birr
 [marc@email.ch](mailto:marc@email.ch) 
