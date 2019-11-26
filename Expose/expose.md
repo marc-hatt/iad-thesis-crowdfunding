@@ -6,19 +6,20 @@ Datum: 29.11.2019
 Wie Crowdfunding den Konsumenten die Macht gibt selber zu bestimmen was ihnen gefällt. Wie Nischen belebt werden und ein neues Zeitalter für Kreative geschaffen wird.
 
 ## Administratives
-Schule für Gestaltung Zürich
-Bildungsgang Interaction Design HF
+Schule für Gestaltung Zürich  
+Bildungsgang Interaction Design HF  
 Dipl. Gestalter/-in HF, Kommunikationsdesign mit Vertiefungsrichtung Interaction Design
 
 ### Mentoring durch
-Ulrike Felsing
-[ulrike.felsing@sfgz.ch](mailto:ulrike.felsing@sfgz.ch) HFIAD 2017
+Ulrike Felsing  
+[ulrike.felsing@sfgz.ch](mailto:ulrike.felsing@sfgz.ch)  
+HFIAD 2017  
 Schule für Gestaltung Zürich
 
 ### Vorgelegt von
-Marc Hatt</ br>
-Pestalozzistrasse 24
-5242 Birr
+Marc Hatt  
+Pestalozzistrasse 24  
+5242 Birr  
 [marc@email.ch](mailto:marc@email.ch) 
 
  
