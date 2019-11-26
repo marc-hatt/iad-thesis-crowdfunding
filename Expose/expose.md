@@ -12,14 +12,14 @@ Dipl. Gestalter/-in HF, Kommunikationsdesign mit Vertiefungsrichtung Interaction
 
 ### Mentoring durch
 Ulrike Felsing
- [ulrike.felsing@sfgz.ch](mailto:ulrike.felsing@sfgz.ch) HFIAD 2017
+[ulrike.felsing@sfgz.ch](mailto:ulrike.felsing@sfgz.ch) HFIAD 2017
 Schule für Gestaltung Zürich
 
 ### Vorgelegt von
 Marc Hatt
 Pestalozzistrasse 24
 5242 Birr
- [marc@email.ch](mailto:marc@email.ch) 
+[marc@email.ch](mailto:marc@email.ch) 
 
  
 ## Inhaltsverzeichnis Exposé
